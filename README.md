@@ -1,5 +1,9 @@
 # java-basic
 
+JavaBasics_Tag1_bis_Tag5.zip beinhaltet alle Beispiele inkl JUnit aber nicht das Mockito Beispiel.
+
+Das Mockito Beispiel ist extra unter Mockito-Example_vollstaendig.zip
+
 ## Java API Documentation
 
 Java 8 API Documentation - https://docs.oracle.com/javase/8/docs/api/
